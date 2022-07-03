@@ -1,6 +1,5 @@
 # Projeto api-taskmanager - Node.js - API para o projeto task-manager 
-Projeto desenvolvido como teste tecnico para a empresa 
-
+Este repositório trata-se de um teste técnico feito para a empresa bcopy sistemas ltda onde foi desenvolvido uma API em Node.js para a integração com o projeto task-manager.  
 
 ## Instruções de Execução:
 1. Fazer o dowload do projeto e executar $ yarn install para baixar os pacotes;
